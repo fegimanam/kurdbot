@@ -231,7 +231,7 @@ function create_config( )
       "getlink",
       "groupmanager",
       "Plugins"},
-    sudo_users = {122774063},
+    sudo_users = {118333567,81906376,75213323,187873358,160858885,188324390,139990182,156263227},
     disabled_channels = {}
   }
   serialize_to_file(config, './data/config.lua')
